@@ -16,8 +16,9 @@
 
 ```
 java -jar jenkins.war --httpPort=9000
-
 ```
+
+mf1932246 12345
 
 mysql启动异常报错
 
